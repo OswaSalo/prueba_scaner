@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Prueba_Scaner">
         <activity
+            android:name=".CaptureAct"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

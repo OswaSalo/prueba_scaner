@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531935724340",
+    "project_id": "scaner-8be5c",
+    "storage_bucket": "scaner-8be5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531935724340:android:3ff0b984d0b9f5d1979b61",
+        "android_client_info": {
+          "package_name": "com.example.prueba_scaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531935724340-4tnq4li4vja30d8a5e9memvc2g41hjap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNgU8PNRAErjsjqEVPBDeQd8qcwWa9hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531935724340-4tnq4li4vja30d8a5e9memvc2g41hjap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
